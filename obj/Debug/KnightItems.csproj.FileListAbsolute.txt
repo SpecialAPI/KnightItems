@@ -1,0 +1,13 @@
+C:\Users\Andrey\source\repos\KnightItems\bin\Debug\KnightItems.dll
+C:\Users\Andrey\source\repos\KnightItems\bin\Debug\KnightItems.pdb
+C:\Users\Andrey\source\repos\KnightItems\bin\Debug\Assembly-CSharp.Base.mm.dll
+C:\Users\Andrey\source\repos\KnightItems\bin\Debug\Assembly-CSharp.dll
+C:\Users\Andrey\source\repos\KnightItems\bin\Debug\MonoMod.RuntimeDetour.dll
+C:\Users\Andrey\source\repos\KnightItems\bin\Debug\MonoMod.Utils.dll
+C:\Users\Andrey\source\repos\KnightItems\bin\Debug\UnityEngine.CoreModule.Base.mm.dll
+C:\Users\Andrey\source\repos\KnightItems\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Andrey\source\repos\KnightItems\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Andrey\source\repos\KnightItems\obj\Debug\KnightItems.csproj.CopyComplete
+C:\Users\Andrey\source\repos\KnightItems\obj\Debug\KnightItems.dll
+C:\Users\Andrey\source\repos\KnightItems\obj\Debug\KnightItems.pdb
+C:\Users\Andrey\source\repos\KnightItems\obj\Debug\KnightItems.csprojAssemblyReference.cache
